@@ -19,7 +19,8 @@
 - 📫 How to reach me **kaushikvk2607@gmail.com**
 
 
-
+## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Recent Achievements</b>
+### Top 20 finalist in NRL Hackathon organized by NRL, T-Hub Hyderabad
 
 
 ## 🌐 Socials:
