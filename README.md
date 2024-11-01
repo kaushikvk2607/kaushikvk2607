@@ -8,7 +8,7 @@
   
 - 🌱 Currently Learning <b> Blockchain </b>
 
-- 🌱 Pursuing  **Btech** from IIIT Bhopal CSE'26.
+- 🌱 Pursuing  **B. Tech** from IIIT Bhopal (CSE'26).
   
 - 👯 I’m looking to collaborate on Full Stack and Blockchain Projects
 
