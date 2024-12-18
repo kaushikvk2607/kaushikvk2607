@@ -5,12 +5,10 @@
 # 💫 About Me:
 
 - 🔭 I'm a <b> Full-Stack web developer </b>
-  
-- 🌱 Currently Learning <b> Blockchain </b>
 
 - 🌱 Pursuing  **B. Tech** from IIIT Bhopal (CSE'26).
   
-- 👯 I’m looking to collaborate on Full Stack and Blockchain Projects
+- 👯 I’m looking to collaborate on Full Stack Projects.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/kaushikvk2607/)
 
