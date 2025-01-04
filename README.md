@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Recent Achievements</b>
 ### Top 20 finalist in NRL Hackathon organized by NRL, T-Hub Hyderabad.
-### Top 20 finalist in Version BeTa 7.0 Hackathon organized by ISTE SC MANIT Bhopal.
+### Top 20 finalist in Version BeTa 7.0 Hackathon organized by ISTE NIT Bhopal.
 
 
 ## 🌐 Socials:
