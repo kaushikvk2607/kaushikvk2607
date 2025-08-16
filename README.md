@@ -4,15 +4,15 @@
 
 # 💫 About Me:
 
-- 🔭 I'm a <b> Full-Stack web developer </b>
+- 🔭 I'm a <b> Full-Stack web developer and Data Analyst. </b>
 
 - 🌱 Pursuing  **B. Tech** from IIIT Bhopal (CSE'26).
   
-- 👯 I’m looking to collaborate on Full Stack Projects.
+- 👯 I’m looking to collaborate on Full Stack And data Analysis Projects.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/kaushikvk2607/)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack** and **Data Analysic**.
 
 - 📫 How to reach me **kaushikvk2607@gmail.com**
 
@@ -21,6 +21,7 @@
 ### Hack IIT Kanpur CyberSecurity Hackathon '25 Merit Awardee.
 ### NRL Clean Energy Hackathon '24 Finalists at T-Hub, Hyderabad.
 ### Version BeTa 7.0 Hackathon '24 Finalists organized by ISTE NIT Bhopal.
+### Internal Smart India Hachathon'23 Winner organized.
 
 
 ## 🌐 Socials:
