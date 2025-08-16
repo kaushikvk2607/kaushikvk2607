@@ -21,7 +21,7 @@
 ### Hack IIT Kanpur CyberSecurity Hackathon '25 Merit Awardee.
 ### NRL Clean Energy Hackathon '24 Finalists at T-Hub, Hyderabad.
 ### Version BeTa 7.0 Hackathon '24 Finalists organized by ISTE NIT Bhopal.
-### Internal Smart India Hachathon'23 Winner organized.
+### Internal Smart India Hachathon'23 Winner.
 
 
 ## 🌐 Socials:
