@@ -4,15 +4,13 @@
 
 # 💫 About Me:
 
-- 🔭 I'm a <b> Full-Stack web developer and Data Analyst. </b>
+- 🔭 I'm a <b> Full-Stack Web Developer and Data Analyst. </b>
 
 - 🌱 Pursuing  **B. Tech** from IIIT Bhopal (CSE'26).
   
-- 👯 I’m looking to collaborate on Full Stack And data Analysis Projects.
+- 👯 I’m looking to collaborate on **Full Stack** And **Data Analysis** Projects.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/kaushikvk2607/).
-
-- 💬 Ask me about **MERN stack** and **Data Analytics**.
 
 - 📫 How to reach me **kaushikvk2607@gmail.com**
 
