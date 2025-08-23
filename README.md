@@ -10,7 +10,7 @@
   
 - 👯 I’m looking to collaborate on Full Stack And data Analysis Projects.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kaushikvk2607/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kaushikvk2607/).
 
 - 💬 Ask me about **MERN stack** and **Data Analytics**.
 
