@@ -6,7 +6,7 @@
 
 - 🔭 I'm a <b> Full-Stack Web Developer and Data Analyst. </b>
 
-- 🌱 Pursuing  **B. Tech** from IIIT Bhopal (CSE'26).
+- 🌱 Pursuing  **Bachelor of Technology(B. Tech.)** in **Computer Science & Engineering** at **Indian Institute of Information Technology (IIIT) Bhopal**.
   
 - 👯 I’m looking to collaborate on **Full Stack** And **Data Analysis** Projects.
 
