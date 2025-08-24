@@ -34,6 +34,4 @@
 
 
 # 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
-
----
+![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) 
