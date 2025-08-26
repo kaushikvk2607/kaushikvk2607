@@ -4,6 +4,8 @@
 
 # 💫 About Me:
 
+<img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
+
 - 🔭 I'm a <b> Full-Stack Web Developer and Data Analyst. </b>
 
 - 🌱 Pursuing  **Bachelor of Technology (B. Tech.)** in **Computer Science & Engineering** at **Indian Institute of Information Technology (IIIT) Bhopal**.
