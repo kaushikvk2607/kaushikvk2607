@@ -28,6 +28,7 @@
 [![Codolio](https://img.shields.io/badge/Codolio-000000?logo=codolio&logoColor=white)](https://codolio.com/profile/kaushikvk2607) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/kaushikvkiiitb)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/kaushikvk2607/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/kaushikvk2607)
 
 
 # 💻 Tech Stack:
