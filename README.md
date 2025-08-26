@@ -29,7 +29,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/kaushikvkiiitb)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/kaushikvk2607/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/kaushikvk2607)
-[![Discord](https://img.shields.io/badge/Discord-235865F2?logo=discord&logoColor=white)](https://discord.gg/kaushiik_vk)
+[![Discord](https://img.shields.io/badge/Discord-235865F2?logo=discord&logoColor=white)](https://discord.gg/sDCUH7xDKd)
 
 
 # 💻 Tech Stack:
