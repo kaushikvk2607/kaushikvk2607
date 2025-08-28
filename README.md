@@ -22,9 +22,9 @@
 
 ## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Recent Achievements</b>
 ### Hack IIT Kanpur Cyber-Security Hackathon '25 Merit Awardee.
-### Cyber Challenge - Delhi Police Hackathon '25 Finalists organized by Delhi Police and Cyberpeace Foundation.
-### NRL Clean Energy Hackathon '24 Finalists at T-Hub, Hyderabad.
-### Version BeTa 7.0 Hackathon '24 Finalists organized by ISTE SC NIT Bhopal.
+### Cyber Challenge - Delhi Police Hackathon '25 Finalists organised by Delhi Police and Cyberpeace Foundation.
+### NRL Clean Energy Hackathon '24 Finalists organised by Numaligarh Refinery Limited (NRL) in association with T-Hub, Hyderabad and powered by AWS.
+### Version BeTa 7.0 Hackathon '24 Finalists organised by ISTE SC NIT Bhopal.
 ### Internal Smart India Hachathon'23 Winner.
 
 
