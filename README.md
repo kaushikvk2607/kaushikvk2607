@@ -24,8 +24,8 @@
 - **Hack IIT Kanpur Cyber-Security Hackathon '25 Merit Awardee** organised by **Techkriti** and **C3i-Hub, IIT Kanpur**.
 - **Cyber Challenge - Delhi Police Hackathon '25 Finalists** organised by **Delhi Police** and **Cyberpeace Foundation**.
 - NRL Clean Energy Hackathon '24 Finalists organised by Numaligarh Refinery Limited (NRL) in association with T-Hub, Hyderabad and powered by AWS.
-- Version BeTa 7.0 Hackathon '24 Finalists organised by ISTE SC NIT Bhopal.
-- Internal Smart India Hachathon'23 Winner.
+- ***Version BeTa 7.0 Hackathon '24 Finalists*** organised by **ISTE SC NIT Bhopal**.
+- ***Internal Smart India Hackathon'23 Winner***.
 
 
 ## 🌐 Let's Connect:
