@@ -52,6 +52,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaushikvk2607&theme=blue-green&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushikvk2607&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushikvk2607&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaushikvk2607&theme=blue_green&utcOffset=8)
