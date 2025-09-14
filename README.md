@@ -49,8 +49,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-### FRAMEWORKS :
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+### FRAMEWORKS & DATABASE:
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -58,6 +57,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
  
 ### LIBRARIES :
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4C93.svg?style=flat&logo=matplotlib&logoColor=white)
