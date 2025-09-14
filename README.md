@@ -59,12 +59,14 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230A8E9D.svg?style=flat&logo=seaborn&logoColor=white)
 
 
-### DESIGN TOOLS:
+### DEVELOPER & DESIGN TOOLS:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square&logo=jupyter)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=flat&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-%234B8B3B.svg?style=flat&logo=microsoft-excel&logoColor=white)
 
 
 
