@@ -59,7 +59,9 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230A8E9D.svg?style=flat&logo=seaborn&logoColor=white)
 
 
-### FRAMEWORKS & TOOLS:
+### DESIGN TOOLS:
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
 
 
 
