@@ -83,9 +83,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
+
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) 
 <br>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaushikvk2607&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvk2607&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=kaushikvk2607&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
