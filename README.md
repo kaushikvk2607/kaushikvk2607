@@ -87,6 +87,7 @@
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=kaushikvk2607&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_public=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvk2607&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikvk2607&" alt="kaushikvk2607" /></p>
 
 </div>
 <br>
