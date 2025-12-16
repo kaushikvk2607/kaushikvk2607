@@ -33,9 +33,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikvk2607/)
 [![Discord](https://img.shields.io/badge/Discord-235865F2?logo=discord&logoColor=white)](https://discord.gg/sDCUH7xDKd)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/kaushikvk2607)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?logo=codolio&logoColor=white)](https://codolio.com/profile/kaushikvk2607) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/kaushikvkiiitb)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/kaushikvk2607/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/kaushikvkiiitb/)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills:
