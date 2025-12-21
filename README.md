@@ -74,9 +74,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%234B8B3B.svg?style=flat&logo=microsoft-excel&logoColor=white)
 
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
 
@@ -91,3 +89,6 @@
 </div>
 <br>
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
