@@ -73,7 +73,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=flat&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%234B8B3B.svg?style=flat&logo=microsoft-excel&logoColor=white)
 
-
+# 📈 LeetCode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kaushikvkiiitb?theme=dark&font=Karma)](https://leetcode.com/kaushikvkiiitb/)
 
 
 # 📊 GitHub Stats:
@@ -84,7 +85,7 @@
 <br>![Vikas Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikvk2607&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvk2607&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikvk2607&" alt="kaushikvk2607" /></p>
+
 
 </div>
 <br>
