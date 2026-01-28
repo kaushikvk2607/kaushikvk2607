@@ -82,9 +82,16 @@
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) 
-<br>![Vikas Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikvk2607&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+</p>
+<p align="center">
+<img alt="pf-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushikvk2607&theme=dracula">
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvk2607&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
+<img alt="lang-details" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushikvk2607&theme=dracula">
+
+<img alt="usr-details" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaushikvk2607&theme=dracula">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvk2607&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
 
 
 </div>
