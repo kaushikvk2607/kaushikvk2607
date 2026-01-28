@@ -81,15 +81,13 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) 
+![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true)  
 </p>
-<p align="center">
-<img alt="pf-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushikvk2607&theme=dracula">
-</p>
+
 
 <img alt="lang-details" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushikvk2607&theme=dracula">
 
-<img alt="usr-details" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaushikvk2607&theme=dracula">
+![Vikas Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikvk2607&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvk2607&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
 
