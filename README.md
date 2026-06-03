@@ -74,7 +74,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%234B8B3B.svg?style=flat&logo=microsoft-excel&logoColor=white)
 
 # 📈 LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kaushikvkiiitb?theme=dark&font=Karma)](https://leetcode.com/kaushikvk/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kaushikvk?theme=dark&font=Karma)](https://leetcode.com/kaushikvk/)
 
 
 # 📊 GitHub Stats:
